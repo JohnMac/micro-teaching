@@ -1,8 +1,0 @@
-right click-tortoisegit
-push - put mine in server -commit my work
-pull-get other's work
-
-
-right click-gitcommit-master
-documentation-description
-commit-not server-put in basket

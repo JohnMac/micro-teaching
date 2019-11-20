@@ -1,8 +1,28 @@
 right click-tortoisegit
-push - put mine in server -commit my work
-pull-get other's work
 
+[push]
+put mine in server -commit my work
 
-right click-gitcommit-master
-documentation-description
-commit-not server-put in basket
+[pull]
+get other's work
+
+[message]
+right click-gitcommit->master-documentation-description
+
+[pull first then push]
+
+[stash]
+not pushing yet, store it
+1. right click-tortoisegit-stash changes
+2. pull
+3. stash pop
+4. push
+
+[commit]
+store local
+the stage before push
+not server-put in basket
+
+[type]
+variable : type
+ex)abc : integar/number...
