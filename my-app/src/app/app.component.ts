@@ -10,4 +10,5 @@ export class AppComponent {
   Rafed = 'apple';
 
   math: BigInteger;
+  Irene='Angel';
 }
